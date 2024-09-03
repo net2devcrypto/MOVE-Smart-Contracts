@@ -3,3 +3,17 @@
 
 <a href="https://github.com/net2devcrypto/MOVE-Smart-Contracts/tree/main/BASICS"><b>RETURN TO BASICS MENU</b></a>
 
+
+```shell
+aptos --help
+```
+
+```shell
+aptos --move init --name my-dapp
+```
+
+```shell
+aptos init --network devnet
+```
+
+
