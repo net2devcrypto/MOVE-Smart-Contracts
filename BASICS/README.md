@@ -1,4 +1,4 @@
-# MOVE-Smart-Contracts - BASIC
+# MOVE-Smart-Contracts - BASICS
 
 
 <table>
