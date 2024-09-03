@@ -19,10 +19,10 @@
 <table>
 <tbody>
   <tr>
-    <td align="center" valign="center" width="15.28%"><a href="https://github.com/net2devcrypto/MOVE-Smart-Contracts/blob/main/BASICS/P6.md"><img src="https://raw.githubusercontent.com/net2devcrypto/misc/main/move-tut/S1P6.png" width="230px;" alt="Latest"/><br /><sub><b>PART 6</b></sub></a><br />👨🏻‍💻</a></td>
-    <td align="center" valign="center" width="15.28%"><a href="https://github.com/net2devcrypto/MOVE-Smart-Contracts/blob/main/BASICS/P7.md"><img src="https://raw.githubusercontent.com/net2devcrypto/misc/main/move-tut/S1P7.png" width="230px;" alt="Latest"/><br /><sub><b>PART 7</b></sub></a><br />👨🏻‍💻</a></td>
-      <td align="center" valign="center" width="15.28%"><a href="https://github.com/net2devcrypto/MOVE-Smart-Contracts/blob/main/BASICS/P8.md"><img src="https://raw.githubusercontent.com/net2devcrypto/misc/main/move-tut/S1P8.png" width="230px;" alt="Latest"/><br /><sub><b>PART 8</b></sub></a><br />👨🏻‍💻</a></td>
-      <td align="center" valign="center" width="15.28%"><a href="https://github.com/net2devcrypto/MOVE-Smart-Contracts/blob/main/BASICS/P9.md"><img src="https://raw.githubusercontent.com/net2devcrypto/misc/main/move-tut/S1P9.png" width="230px;" alt="Latest"/><br /><sub><b>PART 9</b></sub></a><br />👨🏻‍💻</a></td>
+    <td align="center" valign="center" width="15.28%"><a href="https://github.com/net2devcrypto/MOVE-Smart-Contracts/blob/main/BASICS/P6.md"><img src="https://raw.githubusercontent.com/net2devcrypto/misc/main/move-tut/S1P6.png" width="230px;" alt="Latest"/></a></td>
+    <td align="center" valign="center" width="15.28%"><a href="https://github.com/net2devcrypto/MOVE-Smart-Contracts/blob/main/BASICS/P7.md"><img src="https://raw.githubusercontent.com/net2devcrypto/misc/main/move-tut/S1P7.png" width="230px;" alt="Latest"/></a></td>
+      <td align="center" valign="center" width="15.28%"><a href="https://github.com/net2devcrypto/MOVE-Smart-Contracts/blob/main/BASICS/P8.md"><img src="https://raw.githubusercontent.com/net2devcrypto/misc/main/move-tut/S1P8.png" width="230px;" alt="Latest"/></a></td>
+      <td align="center" valign="center" width="15.28%"><a href="https://github.com/net2devcrypto/MOVE-Smart-Contracts/blob/main/BASICS/P9.md"><img src="https://raw.githubusercontent.com/net2devcrypto/misc/main/move-tut/S1P9.png" width="230px;" alt="Latest"/></a></td>
       <td align="center" valign="center" width="15.28%"><a href="https://github.com/net2devcrypto/MOVE-Smart-Contracts/blob/main/BASICS/P10.md"><img src="https://raw.githubusercontent.com/net2devcrypto/misc/main/move-tut/S1P10.png" width="230px;" alt="Latest"/></a></td>
   </tr>
 </tbody>
