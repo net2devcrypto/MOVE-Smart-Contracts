@@ -1,6 +1,6 @@
 # MOVE-Smart-Contracts - BASICS
 
-<img src="https://raw.githubusercontent.com/net2devcrypto/misc/main/net2dev-sociallogo.png" width="200px;" />
+<img src="https://raw.githubusercontent.com/net2devcrypto/misc/main/net2dev-sociallogo.png" opacity="0.1rem" width="200px;" />
 <a href="https://github.com/net2devcrypto/MOVE-Smart-Contracts/tree/main"><b>RETURN TO MAIN MENU</b></a>
 
 <h4>Click an Option Below:</h4>
