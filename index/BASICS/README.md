@@ -24,7 +24,7 @@
     <td align="center" valign="center" width="15.28%"><a href="https://github.com/net2devcrypto/MOVE-Smart-Contracts/blob/main/index/BASICS/index/7/P7.md"><img src="https://raw.githubusercontent.com/net2devcrypto/misc/main/move-tut/S1P7.png" width="230px;" alt="Latest"/></a></td>
       <td align="center" valign="center" width="15.28%"><a href="https://github.com/net2devcrypto/MOVE-Smart-Contracts/blob/main/index/BASICS/index/8/P8.md"><img src="https://raw.githubusercontent.com/net2devcrypto/misc/main/move-tut/S1P8.png" width="230px;" alt="Latest"/></a></td>
       <td align="center" valign="center" width="15.28%"><a href="https://github.com/net2devcrypto/MOVE-Smart-Contracts/blob/main/index/BASICS/index/9/P9.md"><img src="https://raw.githubusercontent.com/net2devcrypto/misc/main/move-tut/S1P9.png" width="230px;" alt="Latest"/></a></td>
-      <td align="center" valign="center" width="15.28%"><a href="https://github.com/net2devcrypto/MOVE-Smart-Contracts/blob/main/index/BASICS/index/10/P10.md"><img src="https://raw.githubusercontent.com/net2devcrypto/misc/main/move-tut/S1P10.png" width="230px;" alt="Latest"/></a></td>
+      <td align="center" valign="center" width="15.28%"><a href="https://github.com/net2devcrypto/MOVE-Smart-Contracts/blob/main/index/BASICS/index/10/P10.md"><img src="https://raw.githubusercontent.com/net2devcrypto/misc/main/move-tut/S1P10V.png" width="230px;" alt="Latest"/></a></td>
   </tr>
 </tbody>
 </table>
